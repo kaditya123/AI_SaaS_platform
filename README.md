@@ -7,7 +7,7 @@ This is Nexus.AI, A Software as a Service platform where you can get AI enabled 
    - You chat with the bot after you have locally downloaded Ollama phi-3 model on your device.
     
 ## 2) Code Generation Bot
-    - It generates the well-formated and explained code for any programming language you want.
+   - It generates the well-formated and explained code for any programming language you want.
 
 Requirements:
 You must locally install the Microsoft's Phi-3 model on your device from Ollama website
