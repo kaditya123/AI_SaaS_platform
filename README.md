@@ -1,11 +1,12 @@
+## NEXUS-AI
 This is Nexus.AI, A Software as a Service platform where you can get AI enabled solutions.
 
-Currently Functional Solutions:
+## Currently Functional Solutions:
 
-1) Conversation Bot
+## 1) Conversation Bot
    - You chat with the bot after you have locally downloaded Ollama phi-3 model on your device.
     
-2) Code Generation Bot
+## 2) Code Generation Bot
     - It generates the well-formated and explained code for any programming language you want.
 
 Requirements:
