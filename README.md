@@ -1,4 +1,6 @@
 ## NEXUS-AI
+![Untitled-2](https://github.com/user-attachments/assets/f78521d3-ae0d-4a13-8f2a-902320ec64f8)
+
 This is Nexus.AI, A Software as a Service platform where you can get AI enabled solutions.
 
 ## Currently Functional Solutions:
