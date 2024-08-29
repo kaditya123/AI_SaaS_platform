@@ -1,6 +1,9 @@
 ## NEXUS-AI
 This is Nexus.AI, A Software as a Service platform where you can get AI enabled solutions.
 
+https://github.com/user-attachments/assets/932e1ffc-2dbd-42a3-ad60-aa8f181b78a2
+
+
 ## Currently Functional Solutions:
 
 ## 1) Conversation Bot
